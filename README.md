@@ -29,21 +29,21 @@ The website provides visitors with an engaging experience through smooth animati
 ## Features
 
 ### Home Section
-- ##### Professional hero section
-- ##### Profile image
-- ##### Resume download button
-- ##### GitHub projects button
-- ##### Responsive navigation bar
-- ##### Smooth scrolling
+##### Professional hero section
+##### Profile image
+##### Resume download button
+##### GitHub projects button
+##### Responsive navigation bar
+##### Smooth scrolling
 
 ---
 
 ### About Section
-- ##### Professional introduction
-- ##### Career objective
-- ##### Educational background
-- ##### Current location
-- ##### Collaboration section
+##### Professional introduction
+##### Career objective
+##### Educational background
+##### Current location
+##### Collaboration section
 
 ---
 
