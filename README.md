@@ -3,26 +3,9 @@
 
 # Personal Portfolio Website
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-A modern, responsive and interactive portfolio website showcasing my skills, education, projects and contact information.
-
-</div>
-
----
-
 ## Overview
 
 This project is a fully responsive **Personal Portfolio Website** designed to present my professional profile, technical skills, educational background, and web development projects in a clean and modern interface.
-
-The portfolio is developed using **HTML5, CSS3, Bootstrap 5, and JavaScript** while following responsive design principles to ensure compatibility across desktop, tablet, and mobile devices.
-
-The website provides visitors with an engaging experience through smooth animations, interactive components, dark/light theme switching, project search functionality, and a professional user interface.
 
 ---
 
