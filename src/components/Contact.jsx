@@ -1,4 +1,17 @@
+import { useState } from 'react';
+
 const Contact = () => {
+  const [validated, setValidated] = useState(false);
+
+  const handleSubmit = (event) => {
+    const form = event.currentTarget;
+    if (form.checkValidity() === false) {
+      event.preventDefault();
+      event.stopPropagation();
+    }
+    setValidated(true);
+  };
+
   return (
     <section id="contact" className="py-5">
       <div className="container">
@@ -18,7 +31,14 @@ const Contact = () => {
           </div>
           <div className="col-lg-6">
             <div className="card soft-card p-4">
-              <form action="https://formspree.io/f/mlgpjjpb" method="POST" id="contactForm" noValidate>
+              <form 
+                action="https://formspree.io/f/mlgpjjpb" 
+                method="POST" 
+                id="contactForm" 
+                noValidate 
+                className={validated ? 'was-validated' : ''} 
+                onSubmit={handleSubmit}
+              >
                 <div className="mb-3">
                   <label htmlFor="name" className="form-label">Name</label>
                   <input type="text" className="form-control" id="name" name="name" required autoComplete="off" />
@@ -26,7 +46,7 @@ const Contact = () => {
                 </div>
                 <div className="mb-3">
                   <label htmlFor="email" className="form-label">Email</label>
-                  <input type="email" className="form-control" id="email" name="email" autoComplete="off" />
+                  <input type="email" className="form-control" id="email" name="email" required autoComplete="off" />
                   <div className="invalid-feedback">Please enter your valid email.</div>
                 </div>
                 <div className="mb-3">
