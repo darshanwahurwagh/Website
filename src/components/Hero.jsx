@@ -1,3 +1,5 @@
+import avatarImg from '../assets/Avatar.jpeg';
+
 const Hero = () => {
   return (
     <section id="home" className="hero">
@@ -28,7 +30,7 @@ const Hero = () => {
           <div className="col-lg-6 text-center order-1 order-lg-2">
             <span>
               <div style={{ display: 'inline-block', padding: '5px', borderRadius: '50%', background: 'linear-gradient(135deg, #a541f1, #2477dd)' }}>
-                <img src="/Avatar.jpeg" alt="Your avatar" style={{ width: '320px', height: '320px', borderRadius: '50%', display: 'block' }} />
+                <img src={avatarImg} alt="Your avatar" style={{ width: '320px', height: '320px', borderRadius: '50%', display: 'block' }} />
               </div>
             </span>
              
