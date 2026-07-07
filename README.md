@@ -109,6 +109,17 @@ This project is a fully responsive **Personal Portfolio Website** designed to pr
   
 ---
 
+## Performance Highlights
+- Fast Loading
+- Mobile Friendly
+- Responsive Layout
+- Clean UI
+- Modern Design
+- Optimized Code
+- Interactive Components
+
+---
+
 ## Future Improvements
 - React Version
 - Admin Dashboard
@@ -120,17 +131,6 @@ This project is a fully responsive **Personal Portfolio Website** designed to pr
 - Visitor Counter
 - Download Resume Analytics
 - SEO Optimization
-
----
-
-## Performance Highlights
-- Fast Loading
-- Mobile Friendly
-- Responsive Layout
-- Clean UI
-- Modern Design
-- Optimized Code
-- Interactive Components
 
 ---
 
