@@ -89,12 +89,12 @@ Categorized skills including:
 Animated skill bars representing proficiency levels.
 
 Examples:
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
-- React
-- Node.js
+##### - HTML
+##### - CSS
+##### - Bootstrap
+##### - JavaScript
+##### - React
+##### - Node.js
 - Express.js
 - SQL
 - MongoDB
