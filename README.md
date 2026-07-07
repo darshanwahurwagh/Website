@@ -97,7 +97,7 @@ The website provides visitors with an engaging experience through smooth animati
   
 ---
 
-## Technologies Used
+## Technologies Used for this project
 
 | Technology | Purpose |
 |------------|---------|
