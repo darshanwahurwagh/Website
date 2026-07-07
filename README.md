@@ -1,29 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+#### Live Link :- https://darshanwahurwagh.github.io/Website/
 
 
-
-
-
-
-
-
-
-# 🌐 Personal Portfolio Website
+# Personal Portfolio Website
 
 <div align="center">
 
@@ -38,7 +16,7 @@ A modern, responsive and interactive portfolio website showcasing my skills, edu
 
 ---
 
-# 📖 Overview
+## Overview
 
 This project is a fully responsive **Personal Portfolio Website** designed to present my professional profile, technical skills, educational background, and web development projects in a clean and modern interface.
 
@@ -48,10 +26,9 @@ The website provides visitors with an engaging experience through smooth animati
 
 ---
 
-# ✨ Features
+## Features
 
-## 🏠 Home Section
-
+### Home Section
 - Professional hero section
 - Profile image
 - Resume download button
@@ -61,8 +38,7 @@ The website provides visitors with an engaging experience through smooth animati
 
 ---
 
-## 👨‍💻 About Section
-
+### About Section
 - Professional introduction
 - Career objective
 - Educational background
@@ -71,16 +47,13 @@ The website provides visitors with an engaging experience through smooth animati
 
 ---
 
-## 🎓 Education Timeline
-
+### Education Timeline
 Displays academic qualifications including:
-
 - Master's Degree
 - Bachelor's Degree
 - Higher Secondary Education
 
 Includes:
-
 - Timeline design
 - Progress bars
 - Percentage
@@ -88,38 +61,34 @@ Includes:
 
 ---
 
-## 🛠 Skills Section
+### Skills Section
 
 Categorized skills including:
 
-### Frontend
+#### Frontend
+- ##### HTML5
+- ##### CSS3
+- ##### Bootstrap
+- ##### JavaScript
+- ##### React
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- React
+#### Backend
+- ##### C
+- ##### Java
+- ##### Node.js
+- ##### Express.js
 
-### Backend
-
-- C
-- Java
-- Node.js
-- Express.js
-
-### Database
-
-- MySQL
-- MongoDB
+#### Database
+- ##### MySQL
+- ##### MongoDB
 
 ---
 
-## 📊 Skill Progress
+### Skill Progress
 
 Animated skill bars representing proficiency levels.
 
 Examples:
-
 - HTML
 - CSS
 - Bootstrap
@@ -132,10 +101,8 @@ Examples:
 
 ---
 
-## 💼 Projects Section
-
+### Projects Section
 Interactive project cards featuring:
-
 - Project image
 - Description
 - Technologies used
@@ -143,18 +110,10 @@ Interactive project cards featuring:
 - Search functionality
 - Project details modal
 
-Projects Included:
-
-- Calculator
-- Weather App
-- Portfolio Website
-
 ---
 
-## 📬 Contact Section
-
+### Contact Section
 Responsive contact form with:
-
 - Name
 - Email
 - Message
@@ -162,17 +121,15 @@ Responsive contact form with:
 Integrated with **Formspree** for email submissions.
 
 Social Links:
-
 - GitHub
 - LinkedIn
 - Email
 
 ---
 
-## 🌙 Dark Mode
+### Dark & Light Theme Toggle
 
 Supports:
-
 - Dark Theme
 - Light Theme
 
@@ -180,10 +137,9 @@ User preference is saved using Local Storage.
 
 ---
 
-## 📱 Fully Responsive
+### Fully Responsive
 
 Optimized for:
-
 - Desktop
 - Laptop
 - Tablet
@@ -191,7 +147,7 @@ Optimized for:
 
 ---
 
-# 🚀 Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -206,7 +162,7 @@ Optimized for:
 
 ---
 
-# 🎯 Key Functionalities
+## Key Functionalities
 
 - Responsive Navigation
 - Smooth Scrolling
@@ -221,68 +177,8 @@ Optimized for:
 
 ---
 
-# 📂 Project Structure
 
-```
-Portfolio/
-│
-├── index.html
-├── css/
-│     └── styles.css
-│
-├── js/
-│     └── script.js
-│
-├── images/
-│
-├── assets/
-│
-└── README.md
-```
-
----
-
-# ⚙ Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/portfolio.git
-```
-
-Go to project directory
-
-```bash
-cd portfolio
-```
-
-Open
-
-```
-index.html
-```
-
-or use
-
-```bash
-Live Server
-```
-
----
-
-# 📸 Screens
-
-- Home
-- About
-- Education
-- Skills
-- Projects
-- Contact
-- Dark Mode
-
----
-
-# 💡 Future Improvements
+## Future Improvements
 
 - React Version
 - Admin Dashboard
@@ -297,17 +193,8 @@ Live Server
 
 ---
 
-# 🌍 Browser Support
 
-- Google Chrome
-- Microsoft Edge
-- Mozilla Firefox
-- Opera
-- Brave
-
----
-
-# 📈 Performance Highlights
+## Performance Highlights
 
 - Fast Loading
 - Mobile Friendly
@@ -319,31 +206,8 @@ Live Server
 
 ---
 
-# 🙋‍♂️ Author
-
+## Author
 **Darshan Wahurwagh**
 
-Full Stack Developer
 
-📧 Email:
-darshanwahurwagh66@gmail.com
 
-💼 LinkedIn:
-https://linkedin.com/in/darshanwahurwagh
-
-🐙 GitHub:
-https://github.com/darshanwahurwagh
-
----
-
-# ⭐ Support
-
-If you like this project, please consider giving it a ⭐ on GitHub.
-
-It motivates me to build more open-source projects.
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
