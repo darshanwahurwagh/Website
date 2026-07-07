@@ -33,67 +33,67 @@ The website provides visitors with an engaging experience through smooth animati
 - Profile image
 - Resume download button
 - GitHub projects button
-##### Responsive navigation bar
-##### Smooth scrolling
+- Responsive navigation bar
+- Smooth scrolling
 
 ---
 
 ### About Section
-##### Professional introduction
-##### Career objective
-##### Educational background
-##### Current location
-##### Collaboration section
+- Professional introduction
+- Career objective
+- Educational background
+- Current location
+- Collaboration section
 
 ---
 
 ### Education Timeline
 #### Displays academic qualifications
 #### Includes:
-- ##### Timeline design
-- ##### Progress bars
-- ##### Percentage
-- ##### University details
+- Timeline design
+- Progress bars
+- Percentage
+- University details
 
 ---
 
 ### Skills Section
-- ##### Categorized skills 
-- ##### Skill Progress
-- ##### Animated skill bars representing proficiency levels.
+- Categorized skills 
+- kill Progress
+- Animated skill bars representing proficiency levels.
 
 ---
 
 ### Projects Section
 #### Interactive project cards featuring:
-- ##### Project image
-- ##### Description
-- ##### Technologies used
-- ##### Live project link
-- ##### Search functionality
-- ##### Project details modal
+- Project image
+- Description
+- Technologies used
+- Live project link
+- Search functionality
+- Project details modal
 
 ---
 
 ### Contact Section
-- ##### Responsive contact form
-- ##### Integrated with **Formspree** for email submissions.
-- ##### Social Links
+- Responsive contact form
+- Integrated with **Formspree** for email submissions.
+- Social Links
   
 ---
 
 ### Toggle
-- ##### Dark Theme
-- ##### Light Theme
+- Dark Theme
+- Light Theme
   
 ---
 
 ### Fully Responsive
 #### Optimized for:
-- ##### Desktop
-- #### Laptop
-- #### Tablet
-- #### Mobile
+- Desktop
+- Laptop
+- Tablet
+- Mobile
   
 ---
 
@@ -113,41 +113,41 @@ The website provides visitors with an engaging experience through smooth animati
 ---
 
 ## Key Functionalities
-- ##### Responsive Navigation
-- ##### Smooth Scrolling
-- ##### Animated Skill Bars
-- ##### Project Search
-- ##### Project Modal Popup
-- ##### Theme Toggle
-- ##### Contact Form
-- ##### Responsive Layout
-- ##### ScrollSpy Navigation
-- ##### Back To Top Button
+- Responsive Navigation
+- Smooth Scrolling
+- Animated Skill Bars
+- Project Search
+- Project Modal Popup
+- Theme Toggle
+- Contact Form
+- Responsive Layout
+- ScrollSpy Navigation
+- Back To Top Button
   
 ---
 
 ## Future Improvements
-- ##### React Version
-- ##### Admin Dashboard
-- ##### Blog Section
-- ##### Certificate Gallery
-- ##### Project Filtering
-- ##### Animations using AOS
-- ##### EmailJS Integration
-- ##### Visitor Counter
-- ##### Download Resume Analytics
-- ##### SEO Optimization
+- React Version
+- Admin Dashboard
+- Blog Section
+- Certificate Gallery
+- Project Filtering
+- Animations using AOS
+- EmailJS Integration
+- Visitor Counter
+- Download Resume Analytics
+- SEO Optimization
 
 ---
 
 ## Performance Highlights
-- ##### Fast Loading
-- ##### Mobile Friendly
-- ##### Responsive Layout
-- ##### Clean UI
-- ##### Modern Design
-- ##### Optimized Code
-- ##### Interactive Components
+- Fast Loading
+- Mobile Friendly
+- Responsive Layout
+- Clean UI
+- Modern Design
+- Optimized Code
+- Interactive Components
 
 ---
 
