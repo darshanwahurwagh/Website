@@ -29,122 +29,72 @@ The website provides visitors with an engaging experience through smooth animati
 ## Features
 
 ### Home Section
-- Professional hero section
-- Profile image
-- Resume download button
-- GitHub projects button
-- Responsive navigation bar
-- Smooth scrolling
+- ##### Professional hero section
+- ##### Profile image
+- ##### Resume download button
+- ##### GitHub projects button
+- ##### Responsive navigation bar
+- ##### Smooth scrolling
 
 ---
 
 ### About Section
-- Professional introduction
-- Career objective
-- Educational background
-- Current location
-- Collaboration section
+- ##### Professional introduction
+- ##### Career objective
+- ##### Educational background
+- ##### Current location
+- ##### Collaboration section
 
 ---
 
 ### Education Timeline
-Displays academic qualifications including:
-- Master's Degree
-- Bachelor's Degree
-- Higher Secondary Education
-
-Includes:
-- Timeline design
-- Progress bars
-- Percentage
-- University details
+#### Displays academic qualifications
+#### Includes:
+- ##### Timeline design
+- ##### Progress bars
+- ##### Percentage
+- ##### University details
 
 ---
 
 ### Skills Section
-
-Categorized skills including:
-
-#### Frontend
-- ##### HTML5
-- ##### CSS3
-- ##### Bootstrap
-- ##### JavaScript
-- ##### React
-
-#### Backend
-- ##### C
-- ##### Java
-- ##### Node.js
-- ##### Express.js
-
-#### Database
-- ##### MySQL
-- ##### MongoDB
-
----
-
-### Skill Progress
-
-Animated skill bars representing proficiency levels.
-
-Examples:
-##### - HTML
-##### - CSS
-##### - Bootstrap
-##### - JavaScript
-##### - React
-##### - Node.js
-- Express.js
-- SQL
-- MongoDB
+- ##### Categorized skills 
+- ##### Skill Progress
+- ##### Animated skill bars representing proficiency levels.
 
 ---
 
 ### Projects Section
-Interactive project cards featuring:
-- Project image
-- Description
-- Technologies used
-- Live project link
-- Search functionality
-- Project details modal
+#### Interactive project cards featuring:
+- ##### Project image
+- ##### Description
+- ##### Technologies used
+- ##### Live project link
+- ##### Search functionality
+- ##### Project details modal
 
 ---
 
 ### Contact Section
-Responsive contact form with:
-- Name
-- Email
-- Message
-
-Integrated with **Formspree** for email submissions.
-
-Social Links:
-- GitHub
-- LinkedIn
-- Email
-
+- ##### Responsive contact form
+- ##### Integrated with **Formspree** for email submissions.
+- ##### Social Links
+  
 ---
 
-### Dark & Light Theme Toggle
-
-Supports:
-- Dark Theme
-- Light Theme
-
-User preference is saved using Local Storage.
-
+### Toggle
+- ##### Dark Theme
+- ##### Light Theme
+  
 ---
 
 ### Fully Responsive
-
-Optimized for:
-- Desktop
-- Laptop
-- Tablet
-- Mobile
-
+#### Optimized for:
+- ##### Desktop
+- #### Laptop
+- #### Tablet
+- #### Mobile
+  
 ---
 
 ## Technologies Used
@@ -163,46 +113,41 @@ Optimized for:
 ---
 
 ## Key Functionalities
-
-- Responsive Navigation
-- Smooth Scrolling
-- Animated Skill Bars
-- Project Search
-- Project Modal Popup
-- Theme Toggle
-- Contact Form
-- Responsive Layout
-- ScrollSpy Navigation
-- Back To Top Button
-
+- ##### Responsive Navigation
+- ##### Smooth Scrolling
+- ##### Animated Skill Bars
+- ##### Project Search
+- ##### Project Modal Popup
+- ##### Theme Toggle
+- ##### Contact Form
+- ##### Responsive Layout
+- ##### ScrollSpy Navigation
+- ##### Back To Top Button
+  
 ---
-
 
 ## Future Improvements
-
-- React Version
-- Admin Dashboard
-- Blog Section
-- Certificate Gallery
-- Project Filtering
-- Animations using AOS
-- EmailJS Integration
-- Visitor Counter
-- Download Resume Analytics
-- SEO Optimization
+- ##### React Version
+- ##### Admin Dashboard
+- ##### Blog Section
+- ##### Certificate Gallery
+- ##### Project Filtering
+- ##### Animations using AOS
+- ##### EmailJS Integration
+- ##### Visitor Counter
+- ##### Download Resume Analytics
+- ##### SEO Optimization
 
 ---
 
-
 ## Performance Highlights
-
-- Fast Loading
-- Mobile Friendly
-- Responsive Layout
-- Clean UI
-- Modern Design
-- Optimized Code
-- Interactive Components
+- ##### Fast Loading
+- ##### Mobile Friendly
+- ##### Responsive Layout
+- ##### Clean UI
+- ##### Modern Design
+- ##### Optimized Code
+- ##### Interactive Components
 
 ---
 
